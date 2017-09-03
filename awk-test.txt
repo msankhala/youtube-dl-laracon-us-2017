@@ -1,0 +1,52 @@
+[generic] day-1-tom-schlick: Requesting header
+WARNING: Falling back on generic information extractor.
+[generic] day-1-tom-schlick: Downloading webpage
+[generic] day-1-tom-schlick: Extracting information
+[download] Downloading playlist: Watch Day 1 - Tom Schlick from Laracon US 2017!
+[generic] playlist Watch Day 1 - Tom Schlick from Laracon US 2017!: Collected 1 video ids (downloading 1 of them)
+[download] Downloading video 1 of 1
+[vimeo] 227182272: Downloading webpage
+[vimeo] 227182272: Extracting information
+[vimeo] 227182272: Downloading JSON metadata
+WARNING: Unable to download JSON metadata: HTTP Error 403: Forbidden
+[vimeo] 227182272: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 227182272: Downloading fastly_skyfire m3u8 information
+[vimeo] 227182272: Downloading akfire_interconnect_quic MPD information
+[vimeo] 227182272: Downloading akfire_interconnect_quic MPD information
+[vimeo] 227182272: Downloading fastly_skyfire MPD information
+[vimeo] 227182272: Downloading fastly_skyfire MPD information
+[info] Available formats for 227182272:
+format code                                        extension  resolution note
+dash-akfire_interconnect_quic_sep-audio-798932750  m4a        audio only DASH audio  128k , mp4a.40.2 (48000Hz)
+dash-fastly_skyfire_sep-audio-798932750            m4a        audio only DASH audio  128k , mp4a.40.2 (48000Hz)
+dash-akfire_interconnect_quic_sep-audio-798932751  m4a        audio only DASH audio  256k , mp4a.40.2 (48000Hz)
+dash-fastly_skyfire_sep-audio-798932751            m4a        audio only DASH audio  256k , mp4a.40.2 (48000Hz)
+dash-akfire_interconnect_quic_sep-video-798932750  mp4        640x360    DASH video  547k , avc1.64001E, video only
+dash-fastly_skyfire_sep-video-798932750            mp4        640x360    DASH video  547k , avc1.64001E, video only
+dash-akfire_interconnect_quic_sep-video-798932742  mp4        960x540    DASH video 1284k , avc1.64001F, video only
+dash-fastly_skyfire_sep-video-798932742            mp4        960x540    DASH video 1284k , avc1.64001F, video only
+dash-akfire_interconnect_quic_sep-video-798932751  mp4        1280x720   DASH video 2006k , avc1.640020, video only
+dash-fastly_skyfire_sep-video-798932751            mp4        1280x720   DASH video 2006k , avc1.640020, video only
+dash-akfire_interconnect_quic_sep-video-798932743  mp4        1920x1080  DASH video 4645k , avc1.640028, video only
+dash-fastly_skyfire_sep-video-798932743            mp4        1920x1080  DASH video 4645k , avc1.640028, video only
+dash-akfire_interconnect_quic-video-798932750      mp4        640x360    DASH video  547k , avc1.64001E, mp4a.40.2 (48000Hz)
+dash-fastly_skyfire-video-798932750                mp4        640x360    DASH video  547k , avc1.64001E, mp4a.40.2 (48000Hz)
+http-360p                                          mp4        640x360    29fps
+hls-akfire_interconnect_quic-228                   mp4        640x360     228k , avc1.64001E, 29.97fps, mp4a.40.2
+hls-fastly_skyfire-228                             mp4        640x360     228k , avc1.64001E, 29.97fps, mp4a.40.2
+dash-akfire_interconnect_quic-video-798932742      mp4        960x540    DASH video 1285k , avc1.64001F, mp4a.40.2 (48000Hz)
+dash-fastly_skyfire-video-798932742                mp4        960x540    DASH video 1285k , avc1.64001F, mp4a.40.2 (48000Hz)
+http-540p                                          mp4        960x540    29fps
+hls-akfire_interconnect_quic-489                   mp4        960x540     489k , avc1.64001F, 29.97fps, mp4a.40.2
+hls-fastly_skyfire-489                             mp4        960x540     489k , avc1.64001F, 29.97fps, mp4a.40.2
+dash-akfire_interconnect_quic-video-798932751      mp4        1280x720   DASH video 2006k , avc1.640020, mp4a.40.2 (48000Hz)
+dash-fastly_skyfire-video-798932751                mp4        1280x720   DASH video 2006k , avc1.640020, mp4a.40.2 (48000Hz)
+http-720p                                          mp4        1280x720   29fps
+hls-akfire_interconnect_quic-632                   mp4        1280x720    632k , avc1.640020, 29.97fps, mp4a.40.2
+hls-fastly_skyfire-632                             mp4        1280x720    632k , avc1.640020, 29.97fps, mp4a.40.2
+dash-akfire_interconnect_quic-video-798932743      mp4        1920x1080  DASH video 4645k , avc1.640028, mp4a.40.2 (48000Hz)
+dash-fastly_skyfire-video-798932743                mp4        1920x1080  DASH video 4645k , avc1.640028, mp4a.40.2 (48000Hz)
+http-1080p                                         mp4        1920x1080  29fps
+hls-akfire_interconnect_quic-1120                  mp4        1920x1080  1120k , avc1.640028, 29.97fps, mp4a.40.2
+hls-fastly_skyfire-1120                            mp4        1920x1080  1120k , avc1.640028, 29.97fps, mp4a.40.2 (best)
+[download] Finished downloading playlist: Watch Day 1 - Tom Schlick from Laracon US 2017!
