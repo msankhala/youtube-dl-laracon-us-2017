@@ -1,1 +1,0 @@
-/Users/mutant/Desktop/yt-dl-laravel.sh
